@@ -1,11 +1,11 @@
 Summary:	Default icon theme for GTK+
 Name:		adwaita-icon-theme
-Version:	3.14.0
+Version:	3.14.1
 Release:	1
 License:	GPL
 Group:		Themes
 Source0:	http://ftp.gnome.org/pub/gnome/sources/adwaita-icon-theme/3.14/%{name}-%{version}.tar.xz
-# Source0-md5:	75ed0541d5939c415cb2e0e2010f639f
+# Source0-md5:	d03913d2d1624a6749a5c032082368fb
 URL:		http://www.gnome.org/
 BuildRequires:	/usr/bin/gtk-update-icon-cache
 BuildRequires:	icon-naming-utils
